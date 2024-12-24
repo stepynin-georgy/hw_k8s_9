@@ -263,6 +263,10 @@ Events:                      <none>
 
 5. Предоставьте манифесты и скриншоты и/или вывод необходимых команд.
 
+[role.yml](https://github.com/stepynin-georgy/hw_k8s_9/blob/main/role.yml)
+
+[role-binding.yml](https://github.com/stepynin-georgy/hw_k8s_9/blob/main/role-binding.yml)
+
 ------
 
 ### Правила приёма работы
